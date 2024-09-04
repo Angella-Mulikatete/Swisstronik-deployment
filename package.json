@@ -1,0 +1,16 @@
+{
+  "name": "swissproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@swisstronik/web3-plugin-swisstronik": "^1.5.1",
+    "web3": "^4.12.1"
+  }
+}
